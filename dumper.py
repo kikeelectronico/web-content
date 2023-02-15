@@ -25,6 +25,8 @@ if args.operation == "none" or args.target == "none":
 
 if args.operation == "download":
   if args.target == "content":
+    print("Downloading content")
+    print("-------------------")
     if not os.path.exists("content"): os.mkdir("content")
     collection = db.collections()
     for collection in collection:
@@ -38,6 +40,8 @@ if args.operation == "download":
 
 elif args.operation == "upload":
   if args.target == "content":
+    print("Uploading content")
+    print("-----------------")
     for collection in os.listdir("content"):
       print(collection)
       # Upload resorce elements
