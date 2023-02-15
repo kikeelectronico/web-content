@@ -6,7 +6,7 @@
     "type": [
         "hardware"
     ],
-    "image": "https://assets.enriquegomez.me/vumeter.JPG",
+    "image": "https://assets.enriquegomez.me/vumeter.jpg",
     "buttons": [
         {
             "url": "https://github.com/RinconIngenieril/Vumeter",
