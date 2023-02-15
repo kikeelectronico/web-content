@@ -1,0 +1,20 @@
+{
+    "public": true,
+    "type": [
+        "hardware"
+    ],
+    "image": "https://assets.enriquegomez.me/rgb-strip-controller.jpg",
+    "priority": 2,
+    "title": "RGB controller",
+    "buttons": [
+        {
+            "title": "Repositorio",
+            "url": "https://github.com/kikeelectronico/rgb-strip-controller"
+        },
+        {
+            "url": "https://cadlab.io/project/24089/main/files",
+            "title": "Ver en CADLAB.io"
+        }
+    ],
+    "description": "Permite controlar una tira RBG usando un ESP8266. Se alimenta con 12v DC y permite dar conectividad WiFi a la tira RGB. En la actualidad lo uso en casa para controlar las tiras RGB desde Google Home."
+}

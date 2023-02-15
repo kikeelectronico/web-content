@@ -1,0 +1,27 @@
+{
+    "priority": 1,
+    "public": true,
+    "description": "Un proyecto IoT. Los dispositivos LED link se comunican entre sí usando MQTT con el objetivo de sincronizar el color con el que encienden su LED. Cada dispositivo usa un colo propio como método de identificación.",
+    "title": "LED link",
+    "buttons": [
+        {
+            "url": "https://github.com/kikeelectronico/led-link",
+            "title": "Repo de hardware"
+        },
+        {
+            "title": "Repo de firmware",
+            "url": "https://github.com/kikeelectronico/led-link-firmware"
+        },
+        {
+            "title": "Repo de app Android",
+            "url": "https://github.com/kikeelectronico/led-link-app"
+        }
+    ],
+    "type": [
+        "hardware",
+        "iot",
+        "WIP",
+        "firmware"
+    ],
+    "image": "https://assets.enriquegomez.me/led-link.jpg"
+}
