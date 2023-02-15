@@ -26,3 +26,16 @@ if args.operation == "download":
          doc_file = open("content/" + collection.id + "/" + doc.id + ".json", 'w')
          doc_file.write(json.dumps(doc.to_dict()))
          doc_file.close()
+
+elif args.operation == "upload":
+  for collection in os.listdir("content"):
+    print(collection)
+    # Upload resorce elements
+    onlyfiles = [f for f in os.listdir("content/" + collection) if os.path.isfile(os.path.join("content/" + collection, f))]
+    for element in onlyfiles:
+        # Upload element
+        filename = element.split(".")[0]
+        print("--", filename)
+        doc = db.collection(collection).document(filename)
+        with open("content/" + collection + "/" + element, 'r') as f:
+            doc.set(json.load(f))
