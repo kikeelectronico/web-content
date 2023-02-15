@@ -39,3 +39,6 @@ elif args.operation == "upload":
         doc = db.collection(collection).document(filename)
         with open("content/" + collection + "/" + element, 'r') as f:
             doc.set(json.load(f))
+
+elif args.operation == "none":
+  print("You must indicate an operation")
