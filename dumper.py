@@ -44,12 +44,10 @@ elif args.operation == "upload":
     print("-----------------")
     for collection in os.listdir("content"):
       print(collection)
-      # Upload resorce elements
-      onlyfiles = [f for f in os.listdir("content/" + collection) if os.path.isfile(os.path.join("content/" + collection, f))]
-      for element in onlyfiles:
-          # Upload element
-          filename = element.split(".")[0]
-          print("--", filename)
-          doc = db.collection(collection).document(filename)
-          with open("content/" + collection + "/" + element, 'r') as f:
-              doc.set(json.load(f))
+      files_paths = [f for f in os.listdir("content/" + collection) if os.path.isfile(os.path.join("content/" + collection, f))]
+      for file_path in files_paths:
+          file_name = file_path.split(".")[0]
+          print("--", file_name)
+          document = db.collection(collection).document(file_name)
+          with open("content/" + collection + "/" + file_path, 'r') as f:
+              document.set(json.load(f))
