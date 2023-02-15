@@ -15,17 +15,16 @@ parser.add_argument('-o', '--operation',
 args = parser.parse_args()
 
 if args.operation == "download":
-    if not os.path.exists("content"): os.mkdir("content")
-
-    collection = db.collections()
-    for collection in collection:
-      print(collection.id)
-      if not os.path.exists("content/" + collection.id): os.mkdir("content/" + collection.id)
-      for doc in collection.stream():
-         print("--", doc.id)
-         doc_file = open("content/" + collection.id + "/" + doc.id + ".json", 'w')
-         doc_file.write(json.dumps(doc.to_dict()))
-         doc_file.close()
+  if not os.path.exists("content"): os.mkdir("content")
+  collection = db.collections()
+  for collection in collection:
+    print(collection.id)
+    if not os.path.exists("content/" + collection.id): os.mkdir("content/" + collection.id)
+    for doc in collection.stream():
+        print("--", doc.id)
+        doc_file = open("content/" + collection.id + "/" + doc.id + ".json", 'w')
+        doc_file.write(json.dumps(doc.to_dict()))
+        doc_file.close()
 
 elif args.operation == "upload":
   for collection in os.listdir("content"):
