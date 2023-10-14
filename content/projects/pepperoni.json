@@ -9,9 +9,13 @@
     "public": true,
     "buttons": [
         {
+            "title": "Documentación",
+            "url": "https://pepperoni.enriquegomez.me/"
+        },
+        {
             "title": "Repositorio",
             "url": "https://github.com/kikeelectronico/pepperoni"
         }
     ],
-    "description": "Pepperoni es un \"robot\" de combate diseñado para competir en la categoría de 1 libra de la OSHWDem. Su primera aparición fue en 2023."
+    "description": "Pepperoni es un \"robot\" de combate diseñado para competir en la categoría de 1 libra de la OSHWDem. Su primera aparición fue en 2023 en la que fue derrotado en el primer combate. ¡Quién sabe si volverá a competir!"
 }
