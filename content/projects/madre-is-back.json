@@ -1,16 +1,16 @@
 {
-    "public": true,
-    "title": "MADRE is Back",
-    "image": "https://assets.enriquegomez.me/MADRE.jpg",
-    "type": [
-        "contenido"
-    ],
     "buttons": [
         {
             "title": "Ver el vídeo",
             "url": "https://www.rinconingenieril.es/fiesta-obijuan/"
         }
     ],
+    "description": "MADRE is Back es una pieza audiovisual creada para mostrar al espectador cuál fue y cómo se hizo el proceso de restauración de la impresora MADRE",
+    "image": "https://assets.enriquegomez.me/MADRE.jpg",
     "priority": 3,
-    "description": "MADRE is Back es una pieza audiovisual creada para mostrar al espectador cuál fue y cómo se hizo el proceso de restauración de la impresora MADRE"
+    "public": true,
+    "title": "MADRE is Back",
+    "type": [
+        "contenido"
+    ]
 }

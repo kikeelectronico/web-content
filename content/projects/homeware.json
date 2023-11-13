@@ -1,15 +1,15 @@
 {
-    "image": "https://assets.enriquegomez.me/homeware.jpg",
-    "description": "Homeware es un ecosistema que permite conectar dispositivos MQTT a Google Smart Home de Google. Usa MQTT para comunicarse con los dispositivos y una API para hacerlo con Google Home. Dispone de una plataforma web de gestión.",
-    "title": "Homeware",
-    "public": true,
     "buttons": [
         {
-            "url": "https://github.com/kikeelectronico/Homeware-LAN",
-            "title": "Repositorio"
+            "title": "Repositorio",
+            "url": "https://github.com/kikeelectronico/Homeware-LAN"
         }
     ],
+    "description": "Homeware es un ecosistema que permite conectar dispositivos MQTT a Google Smart Home de Google. Usa MQTT para comunicarse con los dispositivos y una API para hacerlo con Google Home. Dispone de una plataforma web de gestión.",
+    "image": "https://assets.enriquegomez.me/homeware.jpg",
     "priority": 1,
+    "public": true,
+    "title": "Homeware",
     "type": [
         "software"
     ]

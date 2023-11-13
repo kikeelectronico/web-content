@@ -5,9 +5,9 @@
             "url": "https://pablopenalver.com/selfieemprendedor-entrevistamos-a-enrique-gomez/"
         }
     ],
-    "title": "Selfie Emprendedor por Pablo Peñalver",
-    "image": "https://assets.enriquegomez.me/selfieenrique.jpg",
     "description": "Entrevista cargada de ponencia y de emoción sobre el viaje de Rincón Ingenieril desde el inicio hasta septiembre de 2017.",
+    "image": "https://assets.enriquegomez.me/selfieenrique.jpg",
     "priority": 1,
-    "public": true
+    "public": true,
+    "title": "Selfie Emprendedor por Pablo Peñalver"
 }

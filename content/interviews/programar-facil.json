@@ -1,13 +1,13 @@
 {
-    "priority": 1,
     "buttons": [
         {
-            "url": "https://programarfacil.com/podcast/electronica-para-todos-rinconingenieril/",
-            "title": "Leer y escuchar"
+            "title": "Leer y escuchar",
+            "url": "https://programarfacil.com/podcast/electronica-para-todos-rinconingenieril/"
         }
     ],
     "description": "En la entrevista hablamos sobre Rincón Ingenieril, la tecnología y electrónica.",
-    "public": true,
     "image": "https://assets.enriquegomez.me/electronica-para-todos-01.jpg",
+    "priority": 1,
+    "public": true,
     "title": "Programar Fácil"
 }

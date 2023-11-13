@@ -1,23 +1,23 @@
 {
+    "buttons": [
+        {
+            "title": "Repositorio",
+            "url": "https://github.com/kikeelectronico/la-fabrica-services"
+        },
+        {
+            "title": "Esquema de arquitectura",
+            "url": "https://assets.enriquegomez.me/Arquitectura-La-fabrica.jpg"
+        }
+    ],
+    "description": "En este repositorio se encuentran los microservicios que hacen funcionar mi smarthome. Estos microservicios se apoyan en Homeware.",
+    "image": "https://assets.enriquegomez.me/Arquitectura-La-fabrica.jpg",
+    "priority": 2,
+    "public": true,
+    "title": "La fábrica microservices",
     "type": [
         "software",
         "frontend",
         "backend",
         "docker"
-    ],
-    "public": true,
-    "buttons": [
-        {
-            "url": "https://github.com/kikeelectronico/la-fabrica-services",
-            "title": "Repositorio"
-        },
-        {
-            "url": "https://assets.enriquegomez.me/Arquitectura-La-fabrica.jpg",
-            "title": "Esquema de arquitectura"
-        }
-    ],
-    "description": "En este repositorio se encuentran los microservicios que hacen funcionar mi smarthome. Estos microservicios se apoyan en Homeware.",
-    "priority": 2,
-    "image": "https://assets.enriquegomez.me/Arquitectura-La-fabrica.jpg",
-    "title": "La fábrica microservices"
+    ]
 }

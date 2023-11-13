@@ -1,20 +1,20 @@
 {
-    "title": "AC Relay",
-    "public": true,
-    "image": "https://assets.enriquegomez.me/ac-relay.jpg",
-    "type": [
-        "hardware"
-    ],
     "buttons": [
         {
-            "url": "https://github.com/kikeelectronico/ac-relay",
-            "title": "Repositorio"
+            "title": "Repositorio",
+            "url": "https://github.com/kikeelectronico/ac-relay"
         },
         {
-            "url": "https://cadlab.io/project/24087/main/files",
-            "title": "Ver en CADLAB.io"
+            "title": "Ver en CADLAB.io",
+            "url": "https://cadlab.io/project/24087/main/files"
         }
     ],
     "description": "Un rele controlado mediante WiFi. La placa se alimenta a 230v AC. En la actualidad lo uso en casa para controlar varios electrodomésticos desde Google Home.",
-    "priority": 2
+    "image": "https://assets.enriquegomez.me/ac-relay.jpg",
+    "priority": 2,
+    "public": true,
+    "title": "AC Relay",
+    "type": [
+        "hardware"
+    ]
 }

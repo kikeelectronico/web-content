@@ -1,12 +1,4 @@
 {
-    "image": "https://assets.enriquegomez.me/posaterm3000.jpg",
-    "type": [
-        "hardware",
-        "firmware",
-        "3d"
-    ],
-    "title": "Posaterm 3000",
-    "public": true,
     "buttons": [
         {
             "title": "Repositorio",
@@ -18,5 +10,13 @@
         }
     ],
     "description": "Posaterm 3000 es un simple posavasos que indica la temperatura de la bebida encendiendo uno de los LEDs de su anillo. Lo creé como regalo para mi amiga invisible de 2019 en la oficina. Por suerte está permitido regalar cosas creadas en lugar de compradas, somos una empresa muy maker y creativa.",
-    "priority": 3
+    "image": "https://assets.enriquegomez.me/posaterm3000.jpg",
+    "priority": 3,
+    "public": true,
+    "title": "Posaterm 3000",
+    "type": [
+        "hardware",
+        "firmware",
+        "3d"
+    ]
 }

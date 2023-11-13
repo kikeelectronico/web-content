@@ -1,12 +1,12 @@
 {
-    "priority": 1,
     "buttons": [
         {
             "title": "Ver el badge",
             "url": "https://www.credly.com/users/enrique-gomez-rodriguez-spain/badges"
         }
     ],
+    "description": "Desarrollador asociado LabVIEW, en enero de 2018 pasé con éxito el Certified LabVIEW Associate Developer (CLAD) Exam de National Instruments.",
+    "priority": 1,
     "public": true,
-    "title": "Certificación CLAD - LabVIEW",
-    "description": "Desarrollador asociado LabVIEW, en enero de 2018 pasé con éxito el Certified LabVIEW Associate Developer (CLAD) Exam de National Instruments."
+    "title": "Certificación CLAD - LabVIEW"
 }
