@@ -23,7 +23,7 @@ parser.add_argument('-t', '--target',
                         help='Choose a target.')
 parser.add_argument('-e', '--enviroment',
                         type=str,
-                        choices=['production', 'staging', '(default)', 'none'],
+                        choices=['production', 'develop', 'staging', '(default)', 'none'],
                         default='none', required=True,
                         help='Choose a target.')
 
