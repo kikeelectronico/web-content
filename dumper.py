@@ -3,7 +3,12 @@ import json
 import os
 import argparse
 
-db = firestore.Client()
+# Load env vars
+if os.environ.get("CLOUD_PROJECT_ID", "none") == "none":
+  from dotenv import load_dotenv
+  load_dotenv(dotenv_path=".env")
+
+CLOUD_PROJECT_ID = os.environ.get("CLOUD_PROJECT_ID", "no_set")
 
 parser = argparse.ArgumentParser(description='Web dumper')
 parser.add_argument('-o', '--operation',
@@ -16,12 +21,19 @@ parser.add_argument('-t', '--target',
                         choices=['content', 'assets', 'none'],
                         default='none', required=True,
                         help='Choose a target.')
+parser.add_argument('-e', '--enviroment',
+                        type=str,
+                        choices=['production', 'staging', '(default)', 'none'],
+                        default='none', required=True,
+                        help='Choose a target.')
 
 args = parser.parse_args()
 
-if args.operation == "none" or args.target == "none":
-  print("You must indicate an operation and a target")
+if args.operation == "none" or args.target == "none" or args.enviroment == "none":
+  print("You must indicate an operation, a target and an enviroment")
   exit()
+
+db = firestore.Client(project=CLOUD_PROJECT_ID, database="web-" + args.enviroment)
 
 if args.operation == "download":
   if args.target == "content":
