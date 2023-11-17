@@ -1,0 +1,34 @@
+{
+    "title": "A title test",
+    "tags": [
+        "uno",
+        "dos"
+    ],
+    "date": "1 enero 2000",
+    "reading_time": 1,
+    "header_image": "https://www.rinconingenieril.es/wp-content/uploads/2018/04/Miniatura_fotos.jpg",
+    "thumbnail_image": "https://www.rinconingenieril.es/wp-content/uploads/2018/04/Miniatura_fotos.jpg",
+    "thumbnail_credits": {
+        "name": "Someone",
+        "url": "http:example.com"
+    },
+    "body": [
+        {
+            "type": "text",
+            "text": "Hello"
+        },
+        {
+            "type": "title-level-2",
+            "text": "Hello subtitle level 2"
+        },
+        {
+            "type": "title-level-3",
+            "text": "Hello subtitle level 3"
+        },
+        {
+            "type": "image",
+            "url": "https://www.rinconingenieril.es/wp-content/uploads/2018/04/Miniatura_fotos.jpg"
+        }
+    ]
+
+}
