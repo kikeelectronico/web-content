@@ -18,7 +18,11 @@
     "body": [
         {
             "type": "text",
-            "text": "Hello"
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla commodo felis eros, in dictum elit interdum sed. Nam vel lorem nunc. Nam sed aliquam dolor, nec porta elit. Vivamus nec pretium turpis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus."
+        },
+        {
+            "type": "text",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla commodo felis eros, in dictum elit interdum sed. Nam vel lorem nunc. Nam sed aliquam dolor, nec porta elit. Vivamus nec pretium turpis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ante ipsum primis in faucibus orci luctus."
         },
         {
             "type": "title-level-2",
