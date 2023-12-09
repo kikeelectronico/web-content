@@ -10,13 +10,13 @@
     "reading_time": 1,
     "header_image": {
         "url": "https://www.rinconingenieril.es/wp-content/uploads/2018/04/Miniatura_fotos.jpg",
-        "alt": "alt text"
+        "alt": "alt text",
+        "credits": {
+            "name": "Someone",
+            "url": "http:example.com"
+        }
     },
     "thumbnail_image": "https://www.rinconingenieril.es/wp-content/uploads/2018/04/Miniatura_fotos.jpg",
-    "thumbnail_credits": {
-        "name": "Someone",
-        "url": "http:example.com"
-    },
     "description": "Once upon a time I was a shy young thing. Could barely walk and talk so much as dance and sign. But let me hit that stage I wanna take my bow.",
     "body": [
         {
