@@ -8,7 +8,10 @@
     "public": true,
     "date": "1 enero 2000",
     "reading_time": 1,
-    "header_image": "https://www.rinconingenieril.es/wp-content/uploads/2018/04/Miniatura_fotos.jpg",
+    "header_image": {
+        "url": "https://www.rinconingenieril.es/wp-content/uploads/2018/04/Miniatura_fotos.jpg",
+        "alt": "alt text"
+    },
     "thumbnail_image": "https://www.rinconingenieril.es/wp-content/uploads/2018/04/Miniatura_fotos.jpg",
     "thumbnail_credits": {
         "name": "Someone",
@@ -34,7 +37,8 @@
         },
         {
             "type": "image",
-            "url": "https://www.rinconingenieril.es/wp-content/uploads/2018/04/Miniatura_fotos.jpg"
+            "url": "https://www.rinconingenieril.es/wp-content/uploads/2018/04/Miniatura_fotos.jpg",
+            "alt": "alt text"
         }
     ]
 
