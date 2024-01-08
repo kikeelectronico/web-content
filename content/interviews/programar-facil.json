@@ -1,13 +1,1 @@
-{
-    "buttons": [
-        {
-            "title": "Leer y escuchar",
-            "url": "https://programarfacil.com/podcast/electronica-para-todos-rinconingenieril/"
-        }
-    ],
-    "description": "En la entrevista hablamos sobre Rincón Ingenieril, su origen, la tecnología y electrónica.",
-    "image": "https://assets.enriquegomez.me/electronica-para-todos-01.jpg",
-    "priority": 1,
-    "public": true,
-    "title": "Programar Fácil"
-}
+{"description": "En la entrevista hablamos sobre Rinc\u00f3n Ingenieril, su origen, la tecnolog\u00eda y electr\u00f3nica.", "image": "https://assets.enriquegomez.me/electronica-para-todos-01.jpg", "public": true, "buttons": [{"title": "Leer y escuchar", "url": "https://programarfacil.com/podcast/electronica-para-todos-rinconingenieril/"}], "title": "Programar F\u00e1cil", "priority": 1}

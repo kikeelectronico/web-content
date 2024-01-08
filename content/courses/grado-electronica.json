@@ -1,16 +1,1 @@
-{
-    "buttons": [
-        {
-            "title": "Más información",
-            "url": "https://www.uc3m.es/grado/electronica"
-        },
-        {
-            "title": "Trabajo Fin de Grado",
-            "url": "https://e-archivo.uc3m.es/handle/10016/29583"
-        }
-    ],
-    "description": "Ingeniería Electrónica Industrial y Automática en Universidad Carlos III de Madrid. El Trabajo de Fin de Grado consiste en el diseño e implementación de una interface para el protocolo SpaceWire.",
-    "priority": 1,
-    "public": true,
-    "title": "Grado en Ingeniería Electrónica Industrial y Automática - UC3M"
-}
+{"description": "Ingenier\u00eda Electr\u00f3nica Industrial y Autom\u00e1tica en Universidad Carlos III de Madrid. El Trabajo de Fin de Grado consiste en el dise\u00f1o e implementaci\u00f3n de una interface para el protocolo SpaceWire.", "public": true, "title": "Grado en Ingenier\u00eda Electr\u00f3nica Industrial y Autom\u00e1tica - UC3M", "buttons": [{"title": "M\u00e1s informaci\u00f3n", "url": "https://www.uc3m.es/grado/electronica"}, {"title": "Trabajo Fin de Grado", "url": "https://e-archivo.uc3m.es/handle/10016/29583"}], "priority": 1}
