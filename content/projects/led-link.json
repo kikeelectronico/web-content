@@ -14,7 +14,7 @@
         }
     ],
     "description": "Un proyecto IoT. Los dispositivos LED link se comunican entre sí usando MQTT con el objetivo de sincronizar el color con el que encienden su LED. Cada dispositivo usa un colo propio como método de identificación.",
-    "image": "https://assets.enriquegomez.me/led-link.jpg",
+    "image": "https://assets.enriquegomez.me/portfolio/led-link.webp",
     "priority": 2,
     "public": true,
     "title": "LED link",

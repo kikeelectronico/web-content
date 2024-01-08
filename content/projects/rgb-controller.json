@@ -10,7 +10,7 @@
         }
     ],
     "description": "Permite controlar una tira RBG usando un ESP8266. Se alimenta con 12v DC y permite dar conectividad WiFi a la tira RGB. En la actualidad lo uso en casa para controlar las tiras RGB desde Google Home.",
-    "image": "https://assets.enriquegomez.me/rgb-strip-controller.jpg",
+    "image": "https://assets.enriquegomez.me/portfolio/rgb-strip-controller.webp",
     "priority": 2,
     "public": true,
     "title": "RGB controller",

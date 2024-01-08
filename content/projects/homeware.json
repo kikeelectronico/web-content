@@ -6,7 +6,7 @@
         }
     ],
     "description": "Homeware es un ecosistema que permite conectar dispositivos MQTT a Google Smart Home de Google. Usa MQTT para comunicarse con los dispositivos y una API para hacerlo con Google Home. Dispone de una plataforma web de gestión.",
-    "image": "https://assets.enriquegomez.me/homeware.jpg",
+    "image": "https://assets.enriquegomez.me/portfolio/homeware.webp",
     "priority": 1,
     "public": true,
     "title": "Homeware",

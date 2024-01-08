@@ -10,7 +10,7 @@
         }
     ],
     "description": "Este sitio web está desarrollado con React JS para el front end y Fast API, Python, para el back end. Puedes ver los repositorios del proyecto.",
-    "image": "https://assets.enriquegomez.me/web-personal.jpg",
+    "image": "https://assets.enriquegomez.me/portfolio/web-personal.webp",
     "priority": 3,
     "public": true,
     "title": "Sitio web personal",

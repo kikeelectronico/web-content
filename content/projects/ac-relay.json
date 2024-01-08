@@ -10,7 +10,7 @@
         }
     ],
     "description": "Un rele controlado mediante WiFi. La placa se alimenta a 230v AC. En la actualidad lo uso en casa para controlar varios electrodomésticos desde Google Home.",
-    "image": "https://assets.enriquegomez.me/ac-relay.jpg",
+    "image": "https://assets.enriquegomez.me/portfolio/ac-relay.webp",
     "priority": 2,
     "public": true,
     "title": "AC Relay",

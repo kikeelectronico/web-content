@@ -10,7 +10,7 @@
         }
     ],
     "description": "El vúmetro basado en electróica analógica, muestra mediante LEDs el nivel de volumen de audio. Monta tres posibles combinaciones de filtros, paso altos, paso bajos, pasa banda.",
-    "image": "https://assets.enriquegomez.me/vumeter.jpg",
+    "image": "https://assets.enriquegomez.me/portfolio/vumeter.webp",
     "priority": 3,
     "public": true,
     "title": "Vúmetro",

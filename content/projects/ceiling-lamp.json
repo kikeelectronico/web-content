@@ -10,7 +10,7 @@
         }
     ],
     "description": "Es un dispositivo diseñado para controlar una lámpara alimentada con 230v AC. Se instala entre el interruptor y el portabombillas. En la actualidad lo uso en casa para controlar las lámparas de techo y de pie desde Google Home.",
-    "image": "https://assets.enriquegomez.me/ceiling-lamp.jpg",
+    "image": "https://assets.enriquegomez.me/portfolio/ceiling-lamp.webp",
     "priority": 1,
     "public": true,
     "title": "Ceiling lamp",

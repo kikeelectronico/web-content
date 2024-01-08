@@ -10,7 +10,7 @@
         }
     ],
     "description": "Estoy construyendo un R2-D2 a escala 1:1. El objetivo es que responda a comandos de voz, identifique mi voz y mi cara, pueda moverse de forma autónoma mapeando el espacio y reconozca caras humanas para interactuar como robot social.",
-    "image": "https://assets.enriquegomez.me/R2D2.jpg",
+    "image": "https://assets.enriquegomez.me/portfolio/R2D2.webp",
     "priority": 1,
     "public": true,
     "title": "R2-D2",
