@@ -1,0 +1,13 @@
+{
+    "buttons": [
+        {
+            "title": "Escuchar",
+            "url": "https://www.ivoox.com/rincon-ingenieril-tedigital-s02e07-audios-mp3_rf_30848546_1.html"
+        }
+    ],
+    "description": "Escucha el podcast del programa de radio Té Digital en el que hablamos sobre tecnología, innovación y emprendimiento.",
+    "image": "https://assets.enriquegomez.me/conoceme/te-digital.webp",
+    "priority": 2,
+    "public": true,
+    "title": "Té Digital"
+}
