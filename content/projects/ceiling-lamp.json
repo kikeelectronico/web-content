@@ -1,1 +1,20 @@
-{"description": "Es un dispositivo dise\u00f1ado para controlar una l\u00e1mpara alimentada con 230v AC. Se instala entre el interruptor y el portabombillas. En la actualidad lo uso en casa para controlar las l\u00e1mparas de techo y de pie desde Google Home.", "image": "https://assets.enriquegomez.me/ceiling-lamp.jpg", "public": true, "type": ["hardware"], "title": "Ceiling lamp", "buttons": [{"title": "Repositorio", "url": "https://github.com/kikeelectronico/ceiling-lamp"}, {"title": "Ver en CADLAB.io", "url": "https://cadlab.io/project/24088/main/files"}], "priority": 1}
+{
+    "buttons": [
+        {
+            "title": "Repositorio",
+            "url": "https://github.com/kikeelectronico/ceiling-lamp"
+        },
+        {
+            "title": "Ver en CADLAB.io",
+            "url": "https://cadlab.io/project/24088/main/files"
+        }
+    ],
+    "description": "Es un dispositivo dise\u00f1ado para controlar una l\u00e1mpara alimentada con 230v AC. Se instala entre el interruptor y el portabombillas. En la actualidad lo uso en casa para controlar las l\u00e1mparas de techo y de pie desde Google Home.",
+    "image": "https://storage.googleapis.com/enrique-web-assets-develop/portfolio/phineas-and-ferb.webp",
+    "priority": 1,
+    "public": true,
+    "title": "Ceiling lamp",
+    "type": [
+        "hardware"
+    ]
+}
