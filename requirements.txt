@@ -1,3 +1,4 @@
 argparse
 google-cloud-firestore
+google-cloud-storage
 python-dotenv==1.0.0
