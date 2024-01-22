@@ -1,0 +1,21 @@
+{
+    "buttons": [
+        {
+            "title": "Video",
+            "url": "https://www.youtube.com/watch?v=NkQrKxTFARM"
+        },
+        {
+            "title": "Vídeo",
+            "url": "https://www.youtube.com/watch?v=NkQrKxTFARM"
+        }
+    ],
+    "description": "doobie, doobie, doo-bah, doobie, doobie, doo-bah, doobie, doobie, doo-bah, doobie, doobie, doo-bah, mmm. ¡Perry!",
+    "image": "https://storage.googleapis.com/enrique-web-assets-develop/portfolio/perry-secret-lab.webp",
+    "priority": 2,
+    "public": true,
+    "title": "Perry's lab",
+    "type": [
+        "hardware",
+        "lab"
+    ]
+}

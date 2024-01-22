@@ -1,0 +1,34 @@
+{
+    "buttons": [
+        {
+            "title": "Video 1",
+            "url": "https://www.youtube.com/watch?v=NkQrKxTFARM"
+        },
+        {
+            "title": "Vídeo 2",
+            "url": "https://www.youtube.com/watch?v=NkQrKxTFARM"
+        },
+        {
+            "title": "Vídeo 3",
+            "url": "https://www.youtube.com/watch?v=NkQrKxTFARM"
+        },
+        {
+            "title": "Vídeo 4",
+            "url": "https://www.youtube.com/watch?v=NkQrKxTFARM"
+        },
+        {
+            "title": "Vídeo 5",
+            "url": "https://www.youtube.com/watch?v=NkQrKxTFARM"
+        }
+    ],
+    "description": "There's a hundred and four days of summer vacation. 'Til school comes along just to end it. So the annual problem for our generation. Is finding a good way to spend it",
+    "image": "https://storage.googleapis.com/enrique-web-assets-develop/portfolio/phineas-and-ferb.webp",
+    "priority": 1,
+    "public": true,
+    "title": "summer-vacations",
+    "type": [
+        "hardware",
+        "things",
+        "software"
+    ]
+}
