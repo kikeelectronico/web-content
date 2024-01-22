@@ -19,7 +19,7 @@
         {
             "alt": "alt text",
             "type": "image",
-            "url": "https://storage.googleapis.com/enrique-web-assets/post/test/perry-secret-lab_content.webp"
+            "url": "https://storage.googleapis.com/enrique-web-assets-develop/post/test/perry-secret-lab_content.webp"
         }
     ],
     "date": "1 enero 2000",
@@ -30,7 +30,7 @@
             "name": "Someone",
             "url": "http:example.com"
         },
-        "url": "https://storage.googleapis.com/enrique-web-assets/post/test/phineas-and-ferb_header.webp"
+        "url": "https://storage.googleapis.com/enrique-web-assets-develop/post/test/phineas-and-ferb_header.webp"
     },
     "priority": 1,
     "public": true,
@@ -39,6 +39,6 @@
         "uno",
         "dos"
     ],
-    "thumbnail_image": "https://storage.googleapis.com/enrique-web-assets/post/test/phineas-and-ferb_thumbnail.webp",
+    "thumbnail_image": "https://storage.googleapis.com/enrique-web-assets-develop/post/test/phineas-and-ferb_thumbnail.webp",
     "title": "Hey, Where's Perry?"
 }
