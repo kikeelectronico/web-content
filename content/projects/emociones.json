@@ -1,0 +1,22 @@
+{
+    "buttons": [
+        {
+            "title": "Web app",
+            "url": "https://emociones.enriquegomez.me"
+        },
+        {
+            "title": "Repositorio",
+            "url": "https://github.com/kikeelectronico/emociones"
+        }
+    ],
+    "description": "Emociones es una web app diseñada para usarse desde dispositvos móviles y que muestra la lista de emociones, permite seleccionarlas para filtrarlas y tomar notas en cada una de ellas.",
+    "image": "https://assets.enriquegomez.me/portfolio/emociones.webp",
+    "priority": 3,
+    "public": true,
+    "title": "Emociones",
+    "type": [
+        "software",
+        "frontend",
+        "docker"
+    ]
+}
