@@ -5,11 +5,11 @@
             "url": "https://www.rinconingenieril.es/"
         }
     ],
-    "description": "Rincón Ingenieril es un proyecto audiovisual en el cual se crea contenido en vídeo para YouTube y escrito en la web cuyo objetivo es divulgar la ingeniería electrónica, entrevistas y proyectos del mismo área",
+    "description": "Rincón Ingenieril es un proyecto audiovisual en el cual se crea contenido en vídeo para YouTube y escrito en la web cuyo objetivo es divulgar la ingeniería electrónica, entrevistas y proyectos del mismo área.",
     "image": "https://assets.enriquegomez.me/portfolio/rincon-ingenieril.webp",
     "priority": 1,
     "public": true,
-    "title": "Rinc\u00f3n Ingenieril",
+    "title": "Rincón Ingenieril",
     "type": [
         "contenido"
     ]

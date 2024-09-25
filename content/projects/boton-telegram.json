@@ -5,7 +5,7 @@
             "url": "https://github.com/kikeelectronico/boton-telegram"
         }
     ],
-    "description": "Se trata de un botón que envia un mesaje a través de Telegram hasta a cuatro usuarios. Lo creé como regalo para mi amiga invisible de 2021 en la oficina. Por suerte está permitido regalar cosas creadas en lugar de compradas, somos una empresa muy maker y creativa.",
+    "description": "Se trata de un botón que envía un mensaje a través de Telegram hasta a cuatro usuarios. Lo creé como regalo para mi amiga invisible de 2021 en la oficina. Por suerte está permitido regalar cosas creadas en lugar de compradas, somos una empresa muy maker y creativa.",
     "image": "https://assets.enriquegomez.me/portfolio/boton-telegram.webp",
     "priority": 3,
     "public": true,

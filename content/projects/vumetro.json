@@ -9,7 +9,7 @@
             "url": "https://cadlab.io/project/26131/master/files"
         }
     ],
-    "description": "El vúmetro basado en electróica analógica, muestra mediante LEDs el nivel de volumen de audio. Monta tres posibles combinaciones de filtros, paso altos, paso bajos, pasa banda.",
+    "description": "El vúmetro basado en electrónica analógica, muestra mediante LEDs el nivel de volumen de audio. Monta tres posibles combinaciones de filtros, paso altos, paso bajos, pasa banda.",
     "image": "https://assets.enriquegomez.me/portfolio/vumeter.webp",
     "priority": 3,
     "public": true,
