@@ -1,15 +1,11 @@
 {
     "buttons": [
         {
-            "title": "Repositorio de front end",
+            "title": "Repositorio",
             "url": "https://github.com/kikeelectronico/web-front"
-        },
-        {
-            "title": "Repositorio de back end (API)",
-            "url": "https://github.com/kikeelectronico/web-api"
         }
     ],
-    "description": "Este sitio web está desarrollado con React JS para el front end y Fast API, Python, para el back end. Puedes ver los repositorios del proyecto.",
+    "description": "Este sitio web está desarrollado con React JS y Gatsby.",
     "image": "https://assets.enriquegomez.me/portfolio/web-personal.webp",
     "priority": 3,
     "public": true,
@@ -17,7 +13,6 @@
     "type": [
         "software",
         "frontend",
-        "backend",
         "docker"
     ]
 }

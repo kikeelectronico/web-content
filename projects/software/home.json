@@ -6,14 +6,14 @@
         },
         {
             "title": "Esquema de arquitectura",
-            "url": "https://assets.enriquegomez.me/Arquitectura-La-fabrica.jpg"
+            "url": "https://enriquegomez.me/images/arquitectura-home.jpg"
         }
     ],
     "description": "En este repositorio se encuentran los microservicios que hacen funcionar mi smarthome. Estos microservicios se apoyan en Homeware.",
     "image": "https://assets.enriquegomez.me/portfolio/arquitectura-la-fabrica.webp",
     "priority": 2,
     "public": true,
-    "title": "La fábrica microservices",
+    "title": "Home microservices",
     "type": [
         "software",
         "frontend",
